@@ -1,0 +1,4 @@
+cd into the backend folder (cd backend)
+run "go run ." inside the backend folder to start the http server on localhost
+
+Open your browser and visit localhost
